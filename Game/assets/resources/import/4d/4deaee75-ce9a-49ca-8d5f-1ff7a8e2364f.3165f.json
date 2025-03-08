@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8bs3UL2MtKkpK2dIkdErni"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Student_Dead",
+      "rect": [
+        0,
+        0,
+        212,
+        178
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        212,
+        178
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

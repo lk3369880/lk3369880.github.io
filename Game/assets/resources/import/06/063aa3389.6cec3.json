@@ -1,0 +1,670 @@
+[
+  1,
+  [
+    "4d5jF3U2tNn6zYh5liR/8s",
+    "78SaaevvZJhax7wQKbKLd8",
+    "95O7Vkx7NFt6EddtjCVnY+",
+    "b7w/tuBJ5MWLbyRbjObsW7",
+    "895X70QO9I7YL0nScMPVU1",
+    "92af/Q0fhPj5JYG+cLHmTf",
+    "e9xgTNSABCB5hV5lphpH1c",
+    "24g7FHjbdDw7S6irKvdQ37",
+    "cfProG7rxK7JXODzioaChP",
+    "11jE9zs+RKH7PNOnB/lJG6",
+    "6dWv2V2nhCaZNPbUDzeY/V",
+    "38pFkUP0tF/YIIB/b9KGKr",
+    "5ctuYEt+ZEVrvLb8gHfCzt",
+    "c0wtwstWVFSY0ayfJD/kF0",
+    "aaENacCc9LZ7zwwYrvZRWC",
+    "07HzlDe4tCbahWsW9R1Isu"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "Lovelace_Label_4",
+          "rect": [
+            18,
+            6,
+            31,
+            57
+          ],
+          "offset": [
+            0,
+            -0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_16",
+          "rect": [
+            12,
+            5,
+            41,
+            57
+          ],
+          "offset": [
+            -1,
+            0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_12",
+          "rect": [
+            4,
+            5,
+            59,
+            58
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_13",
+          "rect": [
+            9,
+            6,
+            47,
+            56
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_3",
+          "rect": [
+            13,
+            5,
+            40,
+            59
+          ],
+          "offset": [
+            -0.5,
+            -0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_5",
+          "rect": [
+            11,
+            6,
+            44,
+            56
+          ],
+          "offset": [
+            -0.5,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_15",
+          "rect": [
+            12,
+            6,
+            42,
+            57
+          ],
+          "offset": [
+            -0.5,
+            -0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        6
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_10",
+          "rect": [
+            10,
+            5,
+            45,
+            57
+          ],
+          "offset": [
+            -1,
+            0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        7
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_6",
+          "rect": [
+            9,
+            6,
+            49,
+            56
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        8
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_1",
+          "rect": [
+            14,
+            11,
+            37,
+            45
+          ],
+          "offset": [
+            -1,
+            0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        9
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_8",
+          "rect": [
+            11,
+            6,
+            43,
+            56
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        10
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_2",
+          "rect": [
+            14,
+            11,
+            37,
+            45
+          ],
+          "offset": [
+            -1,
+            0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        11
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_9",
+          "rect": [
+            6,
+            5,
+            55,
+            57
+          ],
+          "offset": [
+            0,
+            0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        12
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_11",
+          "rect": [
+            13,
+            4,
+            40,
+            60
+          ],
+          "offset": [
+            -0.5,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        13
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_14",
+          "rect": [
+            12,
+            6,
+            42,
+            57
+          ],
+          "offset": [
+            -0.5,
+            -0.5
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        14
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Lovelace_Label_7",
+          "rect": [
+            13,
+            6,
+            40,
+            56
+          ],
+          "offset": [
+            -0.5,
+            0
+          ],
+          "originalSize": [
+            67,
+            68
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        15
+      ]
+    ]
+  ]
+]

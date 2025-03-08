@@ -1,0 +1,831 @@
+[
+  1,
+  [
+    "cfS4YVOhBGDZ4Q6c7Zk57+",
+    "f5i+VHiR1IuZCVHh7v6IAr",
+    "84/lmtwAdIvIaq46Cl3E18",
+    "6665dcjbtNFLyAIrf9U06T",
+    "00q2zuPCVK46JuMvk+tYuQ",
+    "aaMIrJQ6RAMpgKt9f9VmoB",
+    "27E3XL95BLtr9JlWbv8aZO",
+    "31jOkeqBtFl4dQ36Tk4i/H",
+    "7dnrPCM9RIWYjLwUlUKWAi",
+    "f2Tb9YNJ5La6G7coLxbXtf",
+    "3ftG+oGBRJVYnCREvasDQ0",
+    "b4e0lnKLZB0Ilnxki11gKy",
+    "1b9TP8Qa9Iurdp45hjShVE",
+    "c4gltP21lFLLk2edg37Xxv",
+    "cdLS2zWHxDVJtjmL3frMLZ",
+    "1bPUrFe59GWaffEDdicnmG",
+    "edya/NGIpFrKxC2JkU++GU",
+    "69L6gocrlDv6buBaUH6Y1E",
+    "60/hByxcVC4oSwe4lo9XgC",
+    "3dOwWcga5GGI2PonSzNdad",
+    "276QuguTpFRadJJhaA5dAY",
+    "30VE9Y+ilLi6OkCmWXaKDc",
+    "75TGA6yYhMlqottrw9pEuH",
+    "31hhGTy8RK+7VRZGwVTJr8",
+    "d5+YeKBHVJQ7sBMqf2rKqg",
+    "48LuRthORCG6a3jLER2ssO",
+    "f3ClzFiKNLBbNE23MHtOA5",
+    "34Uz+NzO5MAqGM0nmFMy9C"
+  ],
+  [
+    "_textureSetter",
+    "value"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.AnimationClip",
+      [
+        "_name",
+        "_duration",
+        "speed",
+        "wrapMode",
+        "curveData"
+      ],
+      -1,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "Surround_Thunder_6",
+          "rect": [
+            0,
+            0,
+            290,
+            304
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            290,
+            304
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_3",
+          "rect": [
+            0,
+            0,
+            352,
+            295
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            352,
+            295
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_11",
+          "rect": [
+            0,
+            0,
+            285,
+            280
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            285,
+            280
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_12",
+          "rect": [
+            0,
+            0,
+            234,
+            218
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            234,
+            218
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_10",
+          "rect": [
+            0,
+            0,
+            285,
+            295
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            285,
+            295
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_1",
+          "rect": [
+            0,
+            0,
+            208,
+            164
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            208,
+            164
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_9",
+          "rect": [
+            0,
+            0,
+            330,
+            289
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            330,
+            289
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        6
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_8",
+          "rect": [
+            0,
+            0,
+            302,
+            325
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            302,
+            325
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        7
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_13",
+          "rect": [
+            0,
+            0,
+            129,
+            180
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            129,
+            180
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        8
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "Zhao_Surround_Thunder",
+          0.23333333333333334,
+          0.5,
+          2,
+          [
+            {},
+            "comps",
+            11,
+            [
+              {},
+              "cc.Sprite",
+              11,
+              [
+                {},
+                "spriteFrame",
+                12,
+                [
+                  [
+                    [
+                      {
+                        "frame": 0
+                      },
+                      "value",
+                      6,
+                      0
+                    ],
+                    [
+                      {
+                        "frame": 0.016666666666666666
+                      },
+                      "value",
+                      6,
+                      1
+                    ],
+                    [
+                      {
+                        "frame": 0.03333333333333333
+                      },
+                      "value",
+                      6,
+                      2
+                    ],
+                    [
+                      {
+                        "frame": 0.05
+                      },
+                      "value",
+                      6,
+                      3
+                    ],
+                    [
+                      {
+                        "frame": 0.06666666666666667
+                      },
+                      "value",
+                      6,
+                      4
+                    ],
+                    [
+                      {
+                        "frame": 0.08333333333333333
+                      },
+                      "value",
+                      6,
+                      5
+                    ],
+                    [
+                      {
+                        "frame": 0.1
+                      },
+                      "value",
+                      6,
+                      6
+                    ],
+                    [
+                      {
+                        "frame": 0.11666666666666667
+                      },
+                      "value",
+                      6,
+                      7
+                    ],
+                    [
+                      {
+                        "frame": 0.13333333333333333
+                      },
+                      "value",
+                      6,
+                      8
+                    ],
+                    [
+                      {
+                        "frame": 0.15
+                      },
+                      "value",
+                      6,
+                      9
+                    ],
+                    [
+                      {
+                        "frame": 0.16666666666666666
+                      },
+                      "value",
+                      6,
+                      10
+                    ],
+                    [
+                      {
+                        "frame": 0.18333333333333332
+                      },
+                      "value",
+                      6,
+                      11
+                    ],
+                    [
+                      {
+                        "frame": 0.2
+                      },
+                      "value",
+                      6,
+                      12
+                    ],
+                    [
+                      {
+                        "frame": 0.21666666666666667
+                      },
+                      "value",
+                      6,
+                      13
+                    ]
+                  ],
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_2",
+          "rect": [
+            0,
+            0,
+            223,
+            197
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            223,
+            197
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        23
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_4",
+          "rect": [
+            0,
+            0,
+            338,
+            294
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            338,
+            294
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        24
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_5",
+          "rect": [
+            0,
+            0,
+            308,
+            312
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            308,
+            312
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        25
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_7",
+          "rect": [
+            0,
+            0,
+            281,
+            301
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            281,
+            301
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        26
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Surround_Thunder_0",
+          "rect": [
+            2,
+            1,
+            59,
+            62
+          ],
+          "offset": [
+            -0.5,
+            0
+          ],
+          "originalSize": [
+            64,
+            64
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        27
+      ]
+    ]
+  ]
+]

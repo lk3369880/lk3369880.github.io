@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "70E09k8A1CRalkGp6Jre74"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "WaterFire_Chat_10",
+      "rect": [
+        8,
+        3,
+        2599,
+        634
+      ],
+      "offset": [
+        -29.5,
+        11
+      ],
+      "originalSize": [
+        2674,
+        662
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

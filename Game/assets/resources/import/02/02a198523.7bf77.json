@@ -1,0 +1,96 @@
+[
+  1,
+  [
+    "49RcSLYpNIupyH7cUx2IuX",
+    "4aQaN+/RpH94qDuLDXLkal"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "XK_EX_Bullet",
+          "rect": [
+            0,
+            0,
+            96,
+            30
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            96,
+            30
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "XK_Stay_1",
+          "rect": [
+            0,
+            0,
+            154,
+            147
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            154,
+            147
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

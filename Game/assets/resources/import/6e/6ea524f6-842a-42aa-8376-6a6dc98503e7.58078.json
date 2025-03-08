@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "93hD4NHdVMDoZq4w50IGx8"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Xiaoming_Area_Label",
+      "rect": [
+        0,
+        0,
+        614,
+        591
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        614,
+        591
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

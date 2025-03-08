@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6fOjxy/zxAoqpnqK8616dr"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "GBA_Chat_9",
+      "rect": [
+        8,
+        3,
+        2599,
+        634
+      ],
+      "offset": [
+        -29.5,
+        11
+      ],
+      "originalSize": [
+        2674,
+        662
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

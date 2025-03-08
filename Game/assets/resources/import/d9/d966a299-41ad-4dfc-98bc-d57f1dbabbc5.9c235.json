@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "85zaDDH9pCQa381cAO+8ga"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Messi_Stay_3",
+      "rect": [
+        99,
+        14,
+        54,
+        108
+      ],
+      "offset": [
+        -16.5,
+        23
+      ],
+      "originalSize": [
+        285,
+        182
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

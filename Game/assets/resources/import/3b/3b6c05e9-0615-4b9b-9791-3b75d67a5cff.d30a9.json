@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5bK72cRBdDfr24VXNo0y5j"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Red_Hood_Stay_1",
+      "rect": [
+        121,
+        132,
+        140,
+        139
+      ],
+      "offset": [
+        16,
+        -26.5
+      ],
+      "originalSize": [
+        350,
+        350
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

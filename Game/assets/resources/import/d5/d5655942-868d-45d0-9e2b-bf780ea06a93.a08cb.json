@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "9aO7D2ElFInLYreN2lFtIg"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Yumo_Cloud",
+      "rect": [
+        3,
+        3,
+        95,
+        59
+      ],
+      "offset": [
+        0.5,
+        0.5
+      ],
+      "originalSize": [
+        100,
+        66
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
